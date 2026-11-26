@@ -107,7 +107,7 @@
     "@axe-core/playwright": "^4.14.0",
     "@commitlint/cli": "^21.2.4",
     "@commitlint/config-conventional": "^21.2.0",
-    "@playwright/test": "^1.61.1",
+    "@playwright/test": "^1.65.1",
     "@tailwindcss/postcss": "^4.3.2",
     "@types/archiver": "^8.0.0",
     "@types/node": "^26.6.6",
